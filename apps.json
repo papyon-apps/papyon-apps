@@ -1,7 +1,7 @@
 [
   {
     "name": "Astrodiac",
-    "image": "/images/astrodiac.png",
+    "image": "astrodiac.png",
     "android": {
       "url": "https://play.google.com/store/apps/details?id=com.astrodiac.app"
     },
@@ -11,7 +11,7 @@
   },
   {
     "name": "Overhead",
-    "image": "/images/overhead.png",
+    "image": "overhead.png",
     "android": null,
     "ios": {
       "url": "https://itunes.apple.com/us/app/astrodiac/id1440446549?mt=8"
@@ -19,7 +19,7 @@
   },
   {
     "name": "Lines",
-    "image": "/images/lines.png",
+    "image": "lines.png",
     "android": {
       "url": "https://play.google.com/store/apps/details?id=com.astrodiac.app"
     },
