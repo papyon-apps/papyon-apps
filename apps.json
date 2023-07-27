@@ -10,8 +10,8 @@
     }
   },
   {
-    "name": "Astrodiac",
-    "image": "/images/astrodiac.png",
+    "name": "Overhead",
+    "image": "/images/overhead.png",
     "android": null,
     "ios": {
       "url": "https://itunes.apple.com/us/app/astrodiac/id1440446549?mt=8"
