@@ -1,106 +1,106 @@
 [
   {
-    name: 'overhead',
-    image: 'overhead.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.overhead',
+    "name": "overhead",
+    "image": "overhead.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.overhead"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/ai-art-pic-generator-overhead/id6447619107',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/ai-art-pic-generator-overhead/id6447619107"
+    }
   },
   {
-    name: 'bmi',
-    image: 'bmi.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.bmi',
+    "name": "bmi",
+    "image": "bmi.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.bmi"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/bmi-calculator-chart-buddy/id6445996548',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/bmi-calculator-chart-buddy/id6445996548"
+    }
   },
   {
-    name: 'lines',
-    image: 'lines.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.lines',
+    "name": "lines",
+    "image": "lines.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.lines"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/lines-business-card-scanner/id6448289821',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/lines-business-card-scanner/id6448289821"
+    }
   },
   {
-    name: 'passwall',
-    image: 'passwall.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.passwall',
+    "name": "passwall",
+    "image": "passwall.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.passwall"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/passwall-password-manager/id6449534239',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/passwall-password-manager/id6449534239"
+    }
   },
   {
-    name: 'oria',
-    image: 'oria.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.oria',
+    "name": "oria",
+    "image": "oria.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.oria"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/oria-your-ai-friend/id6451039604',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/oria-your-ai-friend/id6451039604"
+    }
   },
   {
-    name: 'nova',
-    image: 'nova.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.ppyn.novaai',
+    "name": "nova",
+    "image": "nova.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.novaai"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/ai-avatar-maker-nova/id1668792558',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/ai-avatar-maker-nova/id1668792558"
+    }
   },
   {
-    name: 'qrscanplus',
-    image: 'qrscanplus.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.papyonapps.QRScanPlus',
+    "name": "qrscanplus",
+    "image": "qrscanplus.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.papyonapps.QRScanPlus"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/qr-code-reader-scan/id1643140233',
-    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/qr-code-reader-scan/id1643140233"
+    }
   },
   {
-    name: 'pure',
-    image: 'pure.png',
-    android: null,
-    ios: {
-      url: 'https://apps.apple.com/us/app/story-highlight-cover-maker/id6443857558',
-    },
+    "name": "pure",
+    "image": "pure.png",
+    "android": null,
+    "ios": {
+      "url": "https://apps.apple.com/us/app/story-highlight-cover-maker/id6443857558"
+    }
   },
   {
-    name: 'magicly',
-    image: 'magicly.png',
-    android: null,
-    ios: {
-      url: 'https://apps.apple.com/us/app/background-remover-magicly/id1626720444',
-    },
+    "name": "magicly",
+    "image": "magicly.png",
+    "android": null,
+    "ios": {
+      "url": "https://apps.apple.com/us/app/background-remover-magicly/id1626720444"
+    }
   },
   {
-    name: 'naricon',
-    image: 'naricon.png',
-    android: null,
-    ios: {
-      url: 'https://apps.apple.com/us/app/icon-changer-themes-naricon/id1577027518',
-    },
+    "name": "naricon",
+    "image": "naricon.png",
+    "android": null,
+    "ios": {
+      "url": "https://apps.apple.com/us/app/icon-changer-themes-naricon/id1577027518"
+    }
   },
   {
-    name: 'roosefy',
-    image: 'roosefy.png',
-    android: {
-      url: 'https://play.google.com/store/apps/details?id=com.roosefy',
+    "name": "roosefy",
+    "image": "roosefy.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.roosefy"
     },
-    ios: {
-      url: 'https://apps.apple.com/us/app/story-templates-highlights/id1563653448',
-    },
-  },
-];
+    "ios": {
+      "url": "https://apps.apple.com/us/app/story-templates-highlights/id1563653448"
+    }
+  }
+]
