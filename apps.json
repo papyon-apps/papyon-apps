@@ -102,5 +102,13 @@
     "ios": {
       "url": "https://apps.apple.com/us/app/story-templates-highlights/id1563653448"
     }
+  },
+  {
+    "name": "astrodiac",
+    "image": "astrodiac.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.papyonapps.Astrodiac&hl=tr&gl=US"
+    },
+    "ios": null
   }
 ]
