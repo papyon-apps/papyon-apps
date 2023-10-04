@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "essaymate",
+    "image": "essaymate.png",
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.ppyn.nexaai&hl=tr&gl=US"
+    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/essaymate-ai-essay-writer-hw/id6446486799"
+    }
+  },
+  {
     "name": "bmi",
     "image": "bmi.png",
     "android": {
